@@ -1,0 +1,25 @@
+
+body {
+    background: black;
+}
+.doctor {border-radius:25px;background-image: url("../images/button.jpg") ; padding:25px;margin:5px; color:black;}
+
+
+#add {float:right; margin:100px;}
+
+#theButton {margin-left:8px;
+    background: red
+    
+}
+
+#gifs {float: left;
+
+}
+
+h4 {font-weight: bold;
+color: white;
+}
+/* .anImg{
+float: left;
+margin: 0px
+} */
